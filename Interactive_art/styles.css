@@ -1,0 +1,63 @@
+body {
+   background-color: black;
+    font-family: Arial, sans-serif;
+    color: whitesmoke;
+    margin-top: 50px;
+}
+
+.Title {
+   text-align: center;
+    margin-top: 5%;
+    font-size: 15px;
+}
+
+.details{
+   padding-left: 10%;
+    text-align: center;
+    padding-right: 10%;
+}
+
+#art {
+   width: 95%;
+    height: 800px;
+    background: rgba(51,50,49,1);
+    opacity: 1;
+    position: sticky;
+    bottom: 5%;
+    left: 2.5%;
+    overflow: hidden;
+    justify-content: center;
+    margin-bottom: 3%; 
+   margin-top: 10%; 
+}
+
+.buttons {
+   display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.previous {
+   color: rgba(255,255,255,1);
+    font-family: Helvetica Neue;
+    font-weight: Italic;
+}
+
+.home {
+   color: rgba(255,255,255,1);
+    font-family: Helvetica Neue;
+    font-weight: Italic;
+}
+
+.next{
+    color: black;
+    font-family: Helvetica Neue;
+    font-weight: Italic;
+}
+
+.sign {
+  width: 10%;
+  height: 10%;
+  margine-bottom: 2%;
+  margin-left: 47%;
+}

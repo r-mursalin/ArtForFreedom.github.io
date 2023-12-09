@@ -1,0 +1,148 @@
+
+body {
+   background-color: black;
+    font-family: Arial, sans-serif;
+    color: whitesmoke;
+    margin-top: 50px;
+}
+
+
+.posterImage {
+  width: 45%;
+    height: 1024px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: -111px;
+    right: 0px;
+    overflow: hidden;
+}
+
+.ART_FOR {
+  width: 10%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 32%;
+    left: 6.1%;
+    font-family: Helvetica Neue;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.FREEDOM {
+  width: 70%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 33%;
+    left: 5.2%;
+    font-family: Helvetica Neue;
+    font-weight: Regular;
+    font-size: 178px;
+    opacity: 1;
+    text-align: left;
+}
+
+.artistStatement {
+  width: 48%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 60%;
+    left: 6.1%;
+    font-family: Helvetica Neue;
+    font-weight: Regular;
+    font-size: 17px;
+    opacity: 1;
+    text-align: left;
+}
+
+.galleryBox {
+    width: 90%;
+    height: 51%;
+    background: rgba(51,50,49,1);
+    opacity: 1;
+    position: sticky;
+    bottom: 5%;
+    left: 5%;
+    overflow: hidden;
+    margin-top: 45%;
+    display: flex;
+    margin-bottom: 3%;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex-direction: row;
+}
+.art1box {
+  width: 28%;
+    height: 85%;
+    background-position: center;
+    background-size: contain;
+    opacity: 1;
+    position: sticky;
+    padding: 2%;
+    overflow: hidden;
+}
+.art2box {
+      width: 28%;
+    height: 85%;
+    background-position: center;
+    background-size: contain;
+    opacity: 1;
+    position: sticky;
+    overflow: hidden;
+    padding: 2%;
+}
+.art3box {
+  width: 28%;
+    height: 85%;
+    background-position: center;
+    background-size: contain;
+    opacity: 1;
+    position: sticky;
+    overflow: hidden;
+    padding: 2%;
+}
+
+.artTitle1 {
+      color: rgba(255,255,255,1);
+    position: initial;
+    top: 95%;
+    left: 50%;
+    font-family: Helvetica Neue;
+    font-weight: Italic;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+.artTitle2 {
+      color: rgba(255,255,255,1);
+    position: initial;
+    top: 95%;
+    left: 50%;
+    font-family: Helvetica Neue;
+    font-weight: Italic;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+.artTitle3 {
+    color: rgba(255,255,255,1);
+    font-family: Helvetica Neue;
+    font-weight: Italic;
+    position: initial;
+    top: 95%;
+    left: 50%;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.sign {
+  width: 10%;
+  height: 10%;
+  margine-bottom: 2%;
+  margin-left: 47%;
+}
